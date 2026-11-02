@@ -1,0 +1,13 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run mount | grep -E 'root|ssl'
+[Info] Set target device : lgtv
+/dev/root on /lib type squashfs (ro,nosuid,relatime)
+/dev/root on /bin type squashfs (ro,nosuid,relatime)
+/dev/root on /usr/bin type squashfs (ro,nosuid,relatime)
+/dev/root on /usr/lib type squashfs (ro,nosuid,relatime)
+/dev/root on /usr/palm/frameworks type squashfs (ro,nosuid,relatime)
+/dev/root on /usr/share type squashfs (ro,nosuid,relatime)
+/dev/root on /usr/lib/qt5/plugins type squashfs (ro,nosuid,relatime)
+/dev/root on /etc/prefs/properties type squashfs (ro,nosuid,relatime)
+/dev/root on /etc/ssl type squashfs (ro,nosuid,relatime)
+/dev/root on /mnt/lg/res type squashfs (ro,nosuid,relatime)

@@ -1,0 +1,7 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run ls -l /etc/ssl; ls /etc/ssl/certs | wc -l
+[Info] Set target device : lgtv
+total 1
+drwxr-xr-x    2 root     root         18214 Mar 29  2022 certs
+-rw-r--r--    1 root     root           877 Mar 29  2022 openssl.cnf
+787

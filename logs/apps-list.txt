@@ -1,0 +1,6 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run ls /usr/palm/applications; echo ---; ls /media/cryptofs/apps/usr/palm/applications
+[Info] Set target device : lgtv
+---
+ares-novacom ERR! [ssh exec failure]: Command 'ls /usr/palm/applications; echo ---; ls /media/cryptofs/apps/usr/palm/applications' exited with code=1
+ares-novacom ERR! [ssh exec failure]: (Original Message: ls: /media/cryptofs/apps/usr/palm/applications: No such file or directory)

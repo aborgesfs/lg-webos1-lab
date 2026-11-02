@@ -1,0 +1,12 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run openssl s_client -connect www.google.com:443 -servername www.google.com -CApath /etc/ssl/certs </dev/null 2>&1 | grep -E 'Verif|verify|issuer|Protocol|Cipher'
+[Info] Set target device : lgtv
+verify return:1
+verify return:1
+verify return:1
+verify return:1
+issuer=/C=US/O=Google Trust Services/CN=WE2
+New, TLSv1/SSLv3, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Verify return code: 0 (ok)

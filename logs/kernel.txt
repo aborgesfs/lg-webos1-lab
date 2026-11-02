@@ -1,0 +1,2 @@
+[Info] Set target device : lgtv
+Linux LGSmartTV 3.10.19-32.afro.6 #1 SMP PREEMPT Tue Mar 29 10:25:31 UTC 2022 armv7l GNU/Linux

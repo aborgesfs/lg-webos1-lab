@@ -1,0 +1,4 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run date
+[Info] Set target device : lgtv
+Mon Nov  2 18:39:11 BRST 2026

@@ -1,0 +1,3 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run find /usr/palm /media/cryptofs/apps -maxdepth 4 -iname '*netflix*' 2>/dev/null
+[Info] Set target device : lgtv

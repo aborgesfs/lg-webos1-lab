@@ -1,0 +1,6 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run openssl version; curl --version | head -2
+[Info] Set target device : lgtv
+OpenSSL 1.0.1h 5 Jun 2014
+curl 7.29.0 (arm-starfish-linux-gnueabi) libcurl/7.29.0 OpenSSL/1.0.1h zlib/1.2.7 c-ares/1.9.1
+Protocols: dict file ftp ftps gopher http https imap imaps pop3 pop3s rtsp smtp smtps telnet tftp 

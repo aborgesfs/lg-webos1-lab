@@ -1,0 +1,6 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run ls /usr/bin /bin | grep -i -E 'curl|openssl|wget'
+[Info] Set target device : lgtv
+curl
+openssl
+wget

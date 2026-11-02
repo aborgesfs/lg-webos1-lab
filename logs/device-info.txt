@@ -1,0 +1,4 @@
+[Info] Set target device : lgtv
+modelName : 47LB6500-SF
+sdkVersion : 1.4.0
+firmwareVersion : 05.05.90

@@ -1,0 +1,10 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run openssl s_client -connect api-global.netflix.com:443 -servername api-global.netflix.com -CApath /etc/ssl/certs </dev/null 2>&1 | grep -E 'Verif|verify|issuer|Protocol|Cipher'
+[Info] Set target device : lgtv
+verify error:num=20:unable to get local issuer certificate
+verify return:0
+issuer=/CN=ICA RSA 2048 G4a 2024/O=Netflix
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Verify return code: 20 (unable to get local issuer certificate)

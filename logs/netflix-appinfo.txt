@@ -1,0 +1,4 @@
+npm notice run npx
+npm notice run ares-novacom --device lgtv --run grep -il netflix /usr/palm/applications/*/appinfo.json /media/cryptofs/apps/usr/palm/applications/*/appinfo.json 2>/dev/null
+[Info] Set target device : lgtv
+ares-novacom ERR! [ssh exec failure]: Command 'grep -il netflix /usr/palm/applications/*/appinfo.json /media/cryptofs/apps/usr/palm/applications/*/appinfo.json 2>/dev/null' exited with code=2
