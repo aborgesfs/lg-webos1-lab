@@ -1,0 +1,10 @@
+{
+  "id": "com.lab.hello",
+  "version": "1.0.0",
+  "vendor": "lab",
+  "type": "web",
+  "main": "index.html",
+  "title": "Hello LB6500",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
